@@ -1,4 +1,4 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Have a great day!");
+Console.WriteLine("Be careful!");
 
-Console.WriteLine("Hi There!");
+Console.WriteLine("Success!");
